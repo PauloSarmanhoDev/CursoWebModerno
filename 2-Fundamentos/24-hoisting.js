@@ -4,6 +4,6 @@ console.log('a = ',a)
 
 /*
 console.log('b = ',b)
-let b = 2               //NÃO VAI
+let b = 2               //NÃO VAI / Não funciona
 console.log('b = ',b)
 */
